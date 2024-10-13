@@ -20,6 +20,5 @@ int main() {
         // Display the result
         printf("Factorial of %d = %llu\n", num, factorial);
     }
-
     return 0;
 }
